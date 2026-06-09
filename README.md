@@ -1,3 +1,7 @@
+Course: Introduzione al trattamento quantistico delle informazioni
+Student: [Ildo Tiberio]
+Matricola: [0322500009]
+
 # VHDL Quantum Hadamard Gate ⚛️
 
 Implementazione hardware (RTL) di un operatore quantistico di Hadamard per un singolo qubit, sviluppato in VHDL per target FPGA Xilinx Spartan-7 (Boolean Board).
